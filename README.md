@@ -1,4 +1,4 @@
 # NewGitHub-demo
 This is my first Git Repository.
 <br>
-Author ~ Shashwat Srivastava 
+Author ~ (THE) Shashwat Srivastava 
